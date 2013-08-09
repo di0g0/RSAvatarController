@@ -6,6 +6,7 @@
 
 #import "RSMoveAndScaleController.h"
 #import "UIImage+WithShadow.h"
+#import <QuartzCore/QuartzCore.h>
 
 @interface RSMoveAndScaleView ()
 
